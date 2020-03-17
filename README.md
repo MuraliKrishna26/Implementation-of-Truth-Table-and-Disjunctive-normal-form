@@ -6,6 +6,9 @@ formula.
 
 Symbols used for logical connectives :
                   
-        -- jdn
-        -- jdj
+        -- + for disjunction
+        -- . for conjunction
+        -- ~ for negation
+        -- * for implication
+        -- = for bi-implication
                   
